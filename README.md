@@ -7,6 +7,6 @@ This repository implements a text classification model to detect offensive langu
 ...
 
 ## Report
-For a detailed analysis and discussion of the project methodology, results, and insights, please refer to the [Project Report].
+For a detailed analysis and discussion of the project methodology, results, and insights, please refer to the [Project Report](report.pdf).
 
 ...
